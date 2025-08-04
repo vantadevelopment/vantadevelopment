@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to Vanta Development 👋
 
-<!--
-**vantadevelopment/vantadevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who we are:**  
+Vanta Development is a dedicated team passionate about creating cutting-edge tools for Discord moderation. We specialize in building sleek, reliable, and user-friendly moderation panels tailored to empower community moderators.
 
-Here are some ideas to get you started:
+**What we do:**  
+We develop powerful Discord moderation solutions that simplify managing reports, user roles, bans, and permissions — all in one intuitive dashboard. Our goal is to elevate your moderation experience, making community management easier and more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Our mission:**  
+To help Discord communities stay safe, organized, and thriving by providing trusted tools that empower moderators to focus on what matters most — building and maintaining great communities.
+
+---
+
+💡 *Building the future of Discord moderation, one panel at a time.*
